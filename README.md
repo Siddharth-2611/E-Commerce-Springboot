@@ -83,7 +83,8 @@ com.spark.springecom
 | **Product Profile** | ![Product Profile](Frontend/static/productpage.png) |
 | **MySQL Database** | ![MySQL Database](Frontend/static/MySql.png) |
 | **Add Product** | ![Add Product](Frontend/static/addproduct.png) |
-| **Search Product** | ![Search Option](Frontend/static/searchoption.png) |
+| **Search Product** | ![Search Option](Frontend/static/searchproduct.png) |
+| **Product Category** | ![Category option](Frontend/static/category.png) |
 | **Cart Checkout** | ![Cart Checkout](Frontend/static/checkoutpage.png) |
 
 ## Demo Video
