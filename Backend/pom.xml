@@ -8,7 +8,7 @@
 		<version>3.3.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.telusko</groupId>
+	<groupId>com.spark</groupId>
 	<artifactId>SpringEcom</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringEcom</name>
