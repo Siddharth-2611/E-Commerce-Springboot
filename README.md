@@ -2,7 +2,7 @@
 
 # 🛍️ E-Commerce Product Management System
 
-A **high-performance Product Management System** built with **Spring Boot 3.3.3** and **MySQL**, designed to serve as a robust backend for e-commerce platforms.  
+A **high-performance Product Management System** built with **Spring Boot 3.3.2** and **MySQL**, designed to serve as a robust backend for e-commerce platforms.  
 It provides **secure REST APIs** for managing products, handling digital assets, and performing cart operations.  
 This system can be easily integrated with any frontend such as **React.js**.
 
@@ -42,6 +42,19 @@ The system follows a **multi-layered monolithic architecture**:
 4. **Entity Layer** – Java classes representing database tables.
 
 ---
+
+
+## 💡 Technologies Used
+
+| Component        | Technology              |
+|------------------|--------------------------|
+| **Backend**      | Spring Boot 3.3.2       |
+| **ORM**          | Spring Data JPA, Hibernate ORM |
+| **Database**     | MySQL                   |
+| **Frontend**     | React.js         |
+| **Build Tool**   | Apache Maven            |
+| **Runtime**      | Java 21                 |
+| **Tools**        | Project Lombok          |
 
 ## 🔗 API Endpoints
 
