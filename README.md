@@ -87,6 +87,3 @@ com.spark.springecom
 | **Product Category** | ![Category option](Frontend/static/category.png) |
 | **Cart Checkout** | ![Cart Checkout](Frontend/static/checkoutpage.png) |
 
-## Demo Video
-Watch a short demo of the project in action:  
-[![Watch the video](images/video-thumbnail.png)](videos/demo.mp4)  
