@@ -79,12 +79,12 @@ com.spark.springecom
 
 | Feature | Preview |
 |--------|---------|
-| **Frontend Homepage** | ![Frontend Homepage](images/frontend-homepage.png) |
-| **Product Profile** | ![Product Profile](images/product-profile.png) |
-| **MySQL Database** | ![MySQL Database](images/mysql-database.png) |
-| **Add Product** | ![Add Product](images/add-product.png) |
-| **Search Product** | ![Search Option](images/search-option.png) |
-| **Cart Checkout** | ![Cart Checkout](images/cart-checkout.png) |
+| **Frontend Homepage** | ![Frontend Homepage](Frontend/static/homepage.png) |
+| **Product Profile** | ![Product Profile](Frontend/static/productpage.png) |
+| **MySQL Database** | ![MySQL Database](Frontend/static/MySql.png) |
+| **Add Product** | ![Add Product](Frontend/static/addproduct.png) |
+| **Search Product** | ![Search Option](Frontend/static/searchoption.png) |
+| **Cart Checkout** | ![Cart Checkout](Frontend/static/checkoutpage.png) |
 
 ## Demo Video
 Watch a short demo of the project in action:  
